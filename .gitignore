@@ -1,0 +1,6 @@
+# IPython artifacts
+.ipynb_checkpoints/
+
+# Ignore large datasets
+data/testResized
+data/trainResized
